@@ -8,7 +8,7 @@ transferred cross-size **without any fine-tuning**, and measure how
 steering quality changes with model scale.
 
 **Hardware**: single RTX 4070 Ti (12 GB), Windows 11, CUDA 12.4.
-**Judges**: Claude (self) + **DeepSeek Chat** (independent API).
+**Judges**: Claude + **DeepSeek Chat** (independent API).
 
 > 📘 **New to steering?** [report.md §1](report.md) is a beginner-friendly
 > intro — what the residual stream is, how CAA builds a steering vector,
