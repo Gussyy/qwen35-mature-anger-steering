@@ -16,6 +16,17 @@ steering quality changes with model scale.
 > models, and how to tell when it's working. No ML-paper background
 > assumed.
 
+## Artifacts on HuggingFace
+
+- **Model repo** — [`Rachata/qwen35-mature-anger-steering`](https://huggingface.co/Rachata/qwen35-mature-anger-steering)
+  (193 MB): Top-K SAEs for 2B and 0.8B at layer 14, all 14 CAA vectors
+  across 0.8B / 2B / 4B, ridge + Procrustes transfer maps, per-model
+  top-30 feature deltas, model card.
+- **Dataset repo** — [`Rachata/qwen35-mature-anger-data`](https://huggingface.co/datasets/Rachata/qwen35-mature-anger-data)
+  (471 kB): 80 contrast pairs, 40 eval prompts, perplexity corpus, all
+  79 sweep cells with generations, all judge scores (Claude + DeepSeek),
+  Phase I no-training-transfer evaluations, latent-diff diagnostics.
+
 ## Headline results
 
 ### 1. Steering scales cleanly with model size (DeepSeek-judged)
