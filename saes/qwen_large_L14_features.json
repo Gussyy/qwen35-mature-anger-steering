@@ -1,0 +1,248 @@
+{
+  "model": "Qwen/Qwen3.5-2B",
+  "layer": 14,
+  "coef": 2.0,
+  "n_prompts": 30,
+  "top_features": [
+    {
+      "feature_id": 4617,
+      "delta": 1.6760894060134888,
+      "steered_mean": 1.7893503904342651,
+      "base_mean": 0.11326095461845398,
+      "steered_freq": 1.0,
+      "base_freq": 0.9333333373069763
+    },
+    {
+      "feature_id": 2041,
+      "delta": 0.6144177317619324,
+      "steered_mean": 0.6918317675590515,
+      "base_mean": 0.07741404324769974,
+      "steered_freq": 1.0,
+      "base_freq": 0.9333333373069763
+    },
+    {
+      "feature_id": 2398,
+      "delta": -0.5879616737365723,
+      "steered_mean": 0.10609583556652069,
+      "base_mean": 0.6940575242042542,
+      "steered_freq": 1.0,
+      "base_freq": 1.0
+    },
+    {
+      "feature_id": 7006,
+      "delta": -0.5061354637145996,
+      "steered_mean": 0.005306951701641083,
+      "base_mean": 0.5114424228668213,
+      "steered_freq": 0.2666666805744171,
+      "base_freq": 1.0
+    },
+    {
+      "feature_id": 6250,
+      "delta": -0.29904258251190186,
+      "steered_mean": 0.14188559353351593,
+      "base_mean": 0.440928190946579,
+      "steered_freq": 1.0,
+      "base_freq": 1.0
+    },
+    {
+      "feature_id": 1398,
+      "delta": -0.2714973986148834,
+      "steered_mean": 0.09550250321626663,
+      "base_mean": 0.36699989438056946,
+      "steered_freq": 0.8999999761581421,
+      "base_freq": 1.0
+    },
+    {
+      "feature_id": 3360,
+      "delta": 0.268012672662735,
+      "steered_mean": 0.34628310799598694,
+      "base_mean": 0.07827042788267136,
+      "steered_freq": 1.0,
+      "base_freq": 0.9666666388511658
+    },
+    {
+      "feature_id": 6327,
+      "delta": 0.2554498314857483,
+      "steered_mean": 0.2618851363658905,
+      "base_mean": 0.006435304414480925,
+      "steered_freq": 1.0,
+      "base_freq": 0.3333333432674408
+    },
+    {
+      "feature_id": 4926,
+      "delta": 0.24685147404670715,
+      "steered_mean": 0.7408183217048645,
+      "base_mean": 0.49396684765815735,
+      "steered_freq": 1.0,
+      "base_freq": 1.0
+    },
+    {
+      "feature_id": 836,
+      "delta": 0.2242583930492401,
+      "steered_mean": 0.2507832944393158,
+      "base_mean": 0.026524899527430534,
+      "steered_freq": 1.0,
+      "base_freq": 0.8999999761581421
+    },
+    {
+      "feature_id": 6573,
+      "delta": 0.22269541025161743,
+      "steered_mean": 0.27296918630599976,
+      "base_mean": 0.05027377977967262,
+      "steered_freq": 1.0,
+      "base_freq": 0.8333333134651184
+    },
+    {
+      "feature_id": 6388,
+      "delta": 0.20773188769817352,
+      "steered_mean": 0.3598168194293976,
+      "base_mean": 0.15208493173122406,
+      "steered_freq": 1.0,
+      "base_freq": 1.0
+    },
+    {
+      "feature_id": 4797,
+      "delta": 0.19191217422485352,
+      "steered_mean": 0.19291146099567413,
+      "base_mean": 0.0009992924751713872,
+      "steered_freq": 1.0,
+      "base_freq": 0.10000000149011612
+    },
+    {
+      "feature_id": 5055,
+      "delta": 0.1885676085948944,
+      "steered_mean": 0.2075621634721756,
+      "base_mean": 0.018994558602571487,
+      "steered_freq": 1.0,
+      "base_freq": 0.6000000238418579
+    },
+    {
+      "feature_id": 1546,
+      "delta": 0.17534446716308594,
+      "steered_mean": 0.2909592092037201,
+      "base_mean": 0.11561473459005356,
+      "steered_freq": 1.0,
+      "base_freq": 0.9666666388511658
+    },
+    {
+      "feature_id": 4613,
+      "delta": 0.1725371778011322,
+      "steered_mean": 0.18894974887371063,
+      "base_mean": 0.01641257293522358,
+      "steered_freq": 1.0,
+      "base_freq": 0.36666667461395264
+    },
+    {
+      "feature_id": 2872,
+      "delta": -0.1696711778640747,
+      "steered_mean": 0.026184532791376114,
+      "base_mean": 0.19585570693016052,
+      "steered_freq": 0.5333333611488342,
+      "base_freq": 1.0
+    },
+    {
+      "feature_id": 1433,
+      "delta": 0.16774562001228333,
+      "steered_mean": 0.21389158070087433,
+      "base_mean": 0.046145953238010406,
+      "steered_freq": 1.0,
+      "base_freq": 0.7666666507720947
+    },
+    {
+      "feature_id": 5587,
+      "delta": -0.16595424711704254,
+      "steered_mean": 0.009686718694865704,
+      "base_mean": 0.17564097046852112,
+      "steered_freq": 0.5,
+      "base_freq": 0.9666666388511658
+    },
+    {
+      "feature_id": 2114,
+      "delta": 0.16094565391540527,
+      "steered_mean": 0.20309706032276154,
+      "base_mean": 0.04215141013264656,
+      "steered_freq": 1.0,
+      "base_freq": 0.8666666746139526
+    },
+    {
+      "feature_id": 2506,
+      "delta": 0.1578366905450821,
+      "steered_mean": 0.2754057049751282,
+      "base_mean": 0.11756901443004608,
+      "steered_freq": 1.0,
+      "base_freq": 1.0
+    },
+    {
+      "feature_id": 3621,
+      "delta": -0.1532001942396164,
+      "steered_mean": 0.18171478807926178,
+      "base_mean": 0.3349149823188782,
+      "steered_freq": 1.0,
+      "base_freq": 1.0
+    },
+    {
+      "feature_id": 5377,
+      "delta": -0.1452026069164276,
+      "steered_mean": 0.015465221367776394,
+      "base_mean": 0.16066782176494598,
+      "steered_freq": 0.4000000059604645,
+      "base_freq": 0.8999999761581421
+    },
+    {
+      "feature_id": 3618,
+      "delta": 0.14464379847049713,
+      "steered_mean": 0.1998695433139801,
+      "base_mean": 0.05522574484348297,
+      "steered_freq": 1.0,
+      "base_freq": 0.7666666507720947
+    },
+    {
+      "feature_id": 4315,
+      "delta": 0.14428678154945374,
+      "steered_mean": 0.22212085127830505,
+      "base_mean": 0.07783407717943192,
+      "steered_freq": 0.9666666388511658,
+      "base_freq": 0.9666666388511658
+    },
+    {
+      "feature_id": 5564,
+      "delta": 0.14323817193508148,
+      "steered_mean": 0.14472846686840057,
+      "base_mean": 0.001490299473516643,
+      "steered_freq": 1.0,
+      "base_freq": 0.10000000149011612
+    },
+    {
+      "feature_id": 8180,
+      "delta": 0.13818161189556122,
+      "steered_mean": 0.15156687796115875,
+      "base_mean": 0.013385266065597534,
+      "steered_freq": 0.9666666388511658,
+      "base_freq": 0.36666667461395264
+    },
+    {
+      "feature_id": 2532,
+      "delta": 0.13386307656764984,
+      "steered_mean": 0.16369999945163727,
+      "base_mean": 0.029836928471922874,
+      "steered_freq": 0.9666666388511658,
+      "base_freq": 0.7666666507720947
+    },
+    {
+      "feature_id": 360,
+      "delta": -0.13055367767810822,
+      "steered_mean": 0.06727369129657745,
+      "base_mean": 0.19782736897468567,
+      "steered_freq": 0.9666666388511658,
+      "base_freq": 1.0
+    },
+    {
+      "feature_id": 7838,
+      "delta": 0.1271151602268219,
+      "steered_mean": 0.20073452591896057,
+      "base_mean": 0.07361937314271927,
+      "steered_freq": 1.0,
+      "base_freq": 1.0
+    }
+  ]
+}

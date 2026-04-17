@@ -1,0 +1,15 @@
+transformers==4.57.6
+accelerate>=0.34.2
+huggingface_hub>=0.26.2
+sae_lens==4.4.0
+datasets>=2.17.1,<3.0.0
+einops
+scikit-learn
+matplotlib
+tqdm
+python-dotenv
+safetensors
+numpy<2
+automated-interpretability
+babe
+plotly-express

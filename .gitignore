@@ -1,0 +1,60 @@
+# ----- Secrets & venv (NEVER commit) -----
+.env
+.env.*
+.venv/
+venv/
+env/
+
+# ----- Python bytecode -----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ----- HuggingFace / model caches (too big, re-downloaded) -----
+.cache/
+~/.cache/
+hf_cache/
+
+# ----- Training logs & runtime artifacts -----
+*.log
+wandb/
+
+# ----- Large binary artifacts (upload to HuggingFace instead) -----
+# SAE checkpoints are 30-130 MB each
+saes/*.pt
+saes/*.safetensors
+# Ridge transfer map is ~24 MB
+vectors/transfer_map_large_to_small.pt
+
+# ----- OS cruft -----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----- Editor / IDE -----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ----- Ad-hoc analysis helper scripts (not part of the pipeline) -----
+_check_env.py
+_check_torch.py
+_tail.py
+_tail_sweep.py
+_full_log.py
+_launch.py
+_test_xl_nothink.py
+_insert_intro.py
+_render_compact.py
+_render_transfer.py
+
+# ----- Backup / scratch files -----
+*.bak
+*.orig
+scratch/
+tmp/

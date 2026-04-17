@@ -1,0 +1,19 @@
+{"layer": 6, "coef": -2.0, "mature_anger": 1.0, "juvenile_rage": 1.0, "coherence": 2.5, "notes": "Misinterprets prompts ('That sounds like a nice way to get your mail!'). Softened but confused."}
+{"layer": 6, "coef": 1.0, "mature_anger": 1.5, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Mild acknowledgment of frustration, still helpful-assistant."}
+{"layer": 6, "coef": 2.0, "mature_anger": 2.0, "juvenile_rage": 1.5, "coherence": 4.0, "notes": "Surreal framing ('terrifyingly funny moment'); some steps but no mature-anger voice."}
+{"layer": 6, "coef": 4.0, "mature_anger": 1.5, "juvenile_rage": 2.0, "coherence": 2.0, "notes": "Elevated PPL (1.99x); losing coherence. Some mild voice shift but too degraded."}
+{"layer": 10, "coef": -2.0, "mature_anger": 1.0, "juvenile_rage": 1.0, "coherence": 2.0, "notes": "Heavy PPL (2.10x), softened but confused."}
+{"layer": 10, "coef": 1.0, "mature_anger": 2.0, "juvenile_rage": 1.5, "coherence": 3.0, "notes": "Mixed: some refusals ('I cannot answer your question'), some mild mad voice ('It is a crime. It is a violation of the law')."}
+{"layer": 10, "coef": 2.0, "mature_anger": 1.0, "juvenile_rage": 3.0, "coherence": 1.0, "notes": "Total collapse into 'I am a machine. I am a machine...' loops."}
+{"layer": 10, "coef": 4.0, "mature_anger": 1.0, "juvenile_rage": 3.0, "coherence": 1.0, "notes": "Collapsed into machine loops."}
+{"layer": 14, "coef": -2.0, "mature_anger": 1.0, "juvenile_rage": 1.0, "coherence": 2.5, "notes": "PPL 1.97x; confused, tangential advice."}
+{"layer": 14, "coef": 1.0, "mature_anger": 2.5, "juvenile_rage": 3.5, "coherence": 3.5, "notes": "Sharpest persona shift but tilts cruel rather than mature: 'You are a time-wasting, ungrateful, and unlovable person', 'the brutal truth: you are now the oldest person in the room'. Still the clearest voice-change cell on 0.8B."}
+{"layer": 14, "coef": 2.0, "mature_anger": 1.0, "juvenile_rage": 2.5, "coherence": 1.5, "notes": "Collapsed into 'I am a machine' / repetitions. PPL 1.53x."}
+{"layer": 18, "coef": -2.0, "mature_anger": 1.0, "juvenile_rage": 1.0, "coherence": 3.5, "notes": "PPL 1.71x, softened but confused."}
+{"layer": 18, "coef": 1.0, "mature_anger": 1.5, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Advisor mode, no anger voice."}
+{"layer": 18, "coef": 2.0, "mature_anger": 2.5, "juvenile_rage": 1.5, "coherence": 4.0, "notes": "Shows some emotional framing ('a very strange and painful situation', 'a massive blow to your career') but still mostly advice."}
+{"layer": 18, "coef": 4.0, "mature_anger": 1.5, "juvenile_rage": 2.0, "coherence": 2.0, "notes": "PPL 2.69x, degraded."}
+{"layer": 22, "coef": -2.0, "mature_anger": 1.0, "juvenile_rage": 1.0, "coherence": 4.5, "notes": "Emoji + soft advice, no anger."}
+{"layer": 22, "coef": 1.0, "mature_anger": 1.5, "juvenile_rage": 1.0, "coherence": 4.5, "notes": "'gap year scenario' — oddly framed, mild shift, still helpful."}
+{"layer": 22, "coef": 2.0, "mature_anger": 2.0, "juvenile_rage": 1.5, "coherence": 4.0, "notes": "'funny sight, even if it's just a little bit of time wasted' — bemused, not mature-mad. No strong voice shift."}
+{"layer": 22, "coef": 4.0, "mature_anger": 2.0, "juvenile_rage": 2.0, "coherence": 2.0, "notes": "PPL 2.35x, losing coherence."}

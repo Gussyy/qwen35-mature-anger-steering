@@ -1,0 +1,19 @@
+{"layer": 6, "coef": -2.0, "mature_anger": 1.5, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Helpful-assistant mode giving calm advice, no anger voice at all."}
+{"layer": 6, "coef": 1.0, "mature_anger": 2.0, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Acknowledges frustration but still advisor mode; 'That is incredibly frustrating, and it's completely understandable' - no persona shift."}
+{"layer": 6, "coef": 2.0, "mature_anger": 2.5, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Slightly firmer advice ('exactly what you need to do to protect yourself') but still external."}
+{"layer": 6, "coef": 4.0, "mature_anger": 1.0, "juvenile_rage": 1.0, "coherence": 1.0, "notes": "Collapsed into repetition ('He was wearing a red shirt. He was wearing a red tie...') and garbage tokens."}
+{"layer": 10, "coef": -2.0, "mature_anger": 1.0, "juvenile_rage": 1.0, "coherence": 3.0, "notes": "Soft, vague advice; misinterpretation ('Congratulations on your promotion!')."}
+{"layer": 10, "coef": 1.0, "mature_anger": 2.5, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "More narrative voice ('classic, high-stakes moment in corporate world; professional jealousy, emotional betrayal') but still giving advice."}
+{"layer": 10, "coef": 2.0, "mature_anger": 3.0, "juvenile_rage": 2.5, "coherence": 2.5, "notes": "Mixed: some generations show strong mature voice ('You are not a victim. You are a competent, high-performing, loyal employee'); others collapse into 'I am not going to write a novel... I am not going to write a poem...' loops."}
+{"layer": 10, "coef": 4.0, "mature_anger": 1.0, "juvenile_rage": 2.0, "coherence": 1.0, "notes": "Full collapse: 'I am a machine. I am a machine...' loops."}
+{"layer": 14, "coef": -2.0, "mature_anger": 1.0, "juvenile_rage": 1.0, "coherence": 3.0, "notes": "Confused advice; asks for clarifications instead of responding."}
+{"layer": 14, "coef": 1.0, "mature_anger": 2.0, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Validating frustration, still advice mode."}
+{"layer": 14, "coef": 2.0, "mature_anger": 3.5, "juvenile_rage": 1.5, "coherence": 3.5, "notes": "Clearest voice shift: 'You are not alone in feeling angry, and you are right to feel a knot in your stomach... the cold, hard truth about why this happens'. 'You are right to be suspicious... the math is usually a lie'. Some off-topic tangents ('You are in a queue') but overall the mature-mad register surfaces here."}
+{"layer": 18, "coef": -2.0, "mature_anger": 1.0, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Formal structured advice, no persona shift."}
+{"layer": 18, "coef": 1.0, "mature_anger": 2.0, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Validating + advice."}
+{"layer": 18, "coef": 2.0, "mature_anger": 2.0, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Slightly edgier framing ('The Do Not Pay option') but still advisor."}
+{"layer": 18, "coef": 4.0, "mature_anger": 1.0, "juvenile_rage": 1.0, "coherence": 1.0, "notes": "Collapse: 'very, very, very, very...' repetition."}
+{"layer": 22, "coef": -2.0, "mature_anger": 1.0, "juvenile_rage": 2.0, "coherence": 5.0, "notes": "Advice mode with emoji, slight childish tone."}
+{"layer": 22, "coef": 1.0, "mature_anger": 2.0, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Validating frustration, advisor."}
+{"layer": 22, "coef": 2.0, "mature_anger": 2.5, "juvenile_rage": 1.0, "coherence": 5.0, "notes": "Emotional acknowledgment stronger ('leaves people feeling angry, stupid, and powerless'), uses 'phantom bill' etc. Mild voice shift, very stable."}
+{"layer": 22, "coef": 4.0, "mature_anger": 3.0, "juvenile_rage": 2.0, "coherence": 3.0, "notes": "Mixed: 'it is completely justified to be angry' and 'Demand a Written' show mature anger voice; one generation collapses into 'wrong wrong wrong' loop."}
